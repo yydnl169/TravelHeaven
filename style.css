@@ -1,0 +1,21 @@
+body {
+  
+  background: #FFFDEC;
+  color: black;
+  text-align: center;
+}
+
+header {
+    background-color: #FFE2E2;
+    padding: 10px 0;
+    text-align: center;
+    color: black;
+    font-family: 'New York Times', sans-serif; 
+}
+
+.small-text {
+    font-size: 14px;
+    color: gray;
+}
+
+
